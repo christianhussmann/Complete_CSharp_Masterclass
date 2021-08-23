@@ -55,6 +55,25 @@ namespace Operators
             
             Console.WriteLine("result of num1 < num2 is {0}", isLower);
             
+            
+            //equality operator
+            bool isEqual;
+            isEqual = num1 == num2;
+            Console.WriteLine("result of num1 == num2 is {0}", isEqual);
+
+            isEqual = num1 != num2;
+            Console.WriteLine("result of num1 != num2 is {0}", isEqual);
+            
+            
+            //Conditional operators
+            bool isLowerAndSunny;
+            //Condition1 AND condition2
+            isLowerAndSunny = isLower && isSunny;
+            Console.WriteLine("result of isLower && isSunny is {0}", isLowerAndSunny);
+            
+            //Condition1 OR condition2
+            isLowerAndSunny = isLower || isSunny;
+            Console.WriteLine("result of isLower || isSunny is {0}", isLowerAndSunny);
             Console.ReadKey();
         }
     }
