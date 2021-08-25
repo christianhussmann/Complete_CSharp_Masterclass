@@ -6,5 +6,3 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = IfStatements
-build_property.ProjectDir = C:\C#_CrashCourse\Complete_CSharp_Masterclass\Complete_CSharp_Masterclass\IfStatements\

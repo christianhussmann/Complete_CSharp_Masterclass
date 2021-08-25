@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#_CrashCourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj": {}
+    "C:\\School Stuff\\C#Crashcourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj": {}
   },
   "projects": {
-    "C:\\C#_CrashCourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj": {
+    "C:\\School Stuff\\C#Crashcourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#_CrashCourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj",
+        "projectUniqueName": "C:\\School Stuff\\C#Crashcourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "C:\\C#_CrashCourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj",
-        "packagesPath": "C:\\Users\\chri9\\.nuget\\packages\\",
-        "outputPath": "C:\\C#_CrashCourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\obj\\",
+        "projectPath": "C:\\School Stuff\\C#Crashcourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\Operators.csproj",
+        "packagesPath": "C:\\Users\\bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\School Stuff\\C#Crashcourse\\Complete_CSharp_Masterclass\\Complete_CSharp_Masterclass\\Operators\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\chri9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
